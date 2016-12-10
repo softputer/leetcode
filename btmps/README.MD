@@ -12,4 +12,6 @@ Given the below binary tree,
      2   3
 Return 6.
 
+There is no direct max func in go, Be careful to have the right func max.
+
 
